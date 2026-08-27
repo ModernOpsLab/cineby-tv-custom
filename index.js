@@ -111,10 +111,10 @@
   function checkSafeRedirect() {
     try {
       var currentUrl = window.location.href;
-      var targetDomain = 'cineby.at';
+      var targetDomain = 'https://www.cineby.at/';
       
       if (currentUrl.indexOf(targetDomain) === -1) {
-        console.log('Cineby TV: Not on cineby.at, skipping initialization');
+        console.log('Cineby TV: Not on https://www.cineby.at/, skipping initialization');
         return false;
       }
       
