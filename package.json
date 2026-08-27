@@ -6,7 +6,7 @@
   "license": "MIT",
   "packageType": "mods",
   "appName": "Cineby TV Custom",
-  "websiteURL": "https://www.cineby.at",
+  "websiteURL": "https://www.cineby.at/",
   "main": "index.js",
   "repository": {
     "type": "git",
